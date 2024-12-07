@@ -4,11 +4,10 @@ This Python project is a **simple GUI-based calculator** created using the `tkin
 
 #### Features:
 1. **Basic Arithmetic Operations**: Addition, subtraction, multiplication, division, and modulus.
-2. **Scientific Functions**: Includes trigonometric functions (`sin`, `cos`, `tan`), logarithmic functions (`log`, `log10`), permutations (`perm`), combinations (`comb`), and constants like `pi`.
-3. **Dynamic Button Input**: Supports number and operator inputs dynamically.
-4. **Undo Functionality**: Allows users to remove the last entered character.
-5. **Clear All (AC)**: Resets the input field.
-6. **Real-Time Evaluation**: Computes results for complex mathematical expressions securely.
+2. **Dynamic Button Input**: Supports number and operator inputs dynamically.
+3. **Undo Functionality**: Allows users to remove the last entered character.
+4. **Clear All (AC)**: Resets the input field.
+5. **Real-Time Evaluation**: Computes results for complex mathematical expressions securely.
 
 #### Technical Details:
 - **Frontend**: Built with `tkinter` to create an intuitive and responsive user interface.
